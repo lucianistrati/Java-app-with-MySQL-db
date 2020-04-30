@@ -1,0 +1,18 @@
+Create premium client,2020-04-30 13:40:50
+Create normal client,2020-04-30 13:40:58
+Make a normal transaction,2020-04-30 13:41:02
+Make a premium transaction,2020-04-30 13:41:14
+Change the tax for premium clients,2020-04-30 13:41:36
+Change the commission for premium clients,2020-04-30 13:41:44
+Change the commission for normal clients,2020-04-30 13:41:49
+Supplement the amount of money for a certain currency,2020-04-30 13:41:59
+Obtain total profit,2020-04-30 13:42:14
+Obtain last transaction profit,2020-04-30 13:42:20
+Obtain the profit from a certain day,2020-04-30 13:42:22
+Obtain the price of a Currency Pair,2020-04-30 13:42:28
+Obtain transaction history of a client,2020-04-30 13:42:38
+Obtain all currencies available for transactions,2020-04-30 13:42:42
+Obtain last transaction informations,2020-04-30 13:42:44
+Obtain informations about all the transactions from a certain day,2020-04-30 13:42:46
+Make a day pass,2020-04-30 13:42:55
+Exit from the program,2020-04-30 13:42:59
